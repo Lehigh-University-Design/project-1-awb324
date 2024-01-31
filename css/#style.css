@@ -1,0 +1,51 @@
+body {
+    font-family: serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: beige;
+    margin: 50px;
+
+}
+
+h1 {
+    font-family: 'Miltonian Tattoo', serif;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.special-headline {
+    font-weight: 900;
+    color: deeppink;
+
+}
+
+#unique-headline {
+    font-weight: 600;
+    color: blue;
+
+}
+
+h2,h3,h4 {
+    font-weight: 300;
+    font-family: sans-serif;
+    color: blue;
+}
+
+.post {
+    border:1px solid black;
+    margin-bottom: 20px;
+    padding: 10px 20px 10px 20px;
+    img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+.highlight {
+    background-color: black;
+    color: beige;
+    h2 {
+        color: bisque;
+    }
+}
