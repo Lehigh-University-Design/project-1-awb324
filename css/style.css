@@ -6,7 +6,17 @@ body {
     margin: 50px;
     background-color: bisque;
     
+    
 
+}
+
+
+.anchor-link {
+    color: blue;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 20px;
+    
 }
 
 img {
